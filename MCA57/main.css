@@ -1,0 +1,78 @@
+body{
+    background-color:blanchedalmond;
+}
+
+.header{
+    text-align: center;
+    background-color: rgb(245, 142, 142);
+    padding: 2px;
+}
+.navbar {
+    background-color:black;
+    text-align: center;
+    padding: 15px;
+   
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 10px;
+}
+#image{
+    margin-left: -1200px;
+    margin-bottom: -100px;
+}
+#lib{
+  margin-left: 500px;
+  margin-top: -150px;
+}
+.footer{
+padding: 5px;
+background-color:lightsalmon;
+text-align: center;
+}
+.modern{
+    text-align: center;
+}
+#about{
+background-color: lightgray;
+}
+#onlinebooks{
+    background-color: rgb(156, 205, 245);
+}
+.online{
+    text-align: center;
+}
+.cyber{
+    margin-left: 300px;
+    margin-top: -400px;
+}
+.CS{
+    margin-left: 600px;
+    margin-top: -400px;
+}
+.history{
+    margin-left: 900px;
+    margin-top: -410px;
+}
+.contact_me{
+    background:bisque;
+    padding: 30px 9%;
+}
+
+.contact_me h2{
+    font-size: 3rem;
+    color:blue;
+}
+
+
+.message{
+    height: 70px;
+    width: 200px;
+}
+footer{
+    text-align: center;
+    background-color: aqua;
+    padding: 10px;
+}
